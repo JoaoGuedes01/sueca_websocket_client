@@ -1,0 +1,124 @@
+.join-game-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem 5rem 0rem 5rem;
+}
+
+.join-game-container-space{
+    width: 100%;
+    max-width: 60rem;
+}
+
+.join-game-container-space > *{
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.join-game-btn{
+    width: 100%;
+    background-color: #74C041;
+}
+
+.cancel-btn{
+    width: 100%;
+    background-color: #FF1A2E;
+}
+
+.team-members-container{
+    display: flex;
+    gap: 1rem;
+}
+
+.teams-select-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem 5rem 0rem 5rem;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.teams-select-container-wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 60rem;
+    gap: 1rem
+}
+
+
+.team-title-container{
+    display: flex;
+    gap: 2rem;
+}
+
+.team-title{
+    margin: 0;
+    color: white;
+}
+
+.game-page-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    margin: 1rem;
+}
+
+.game-page-back-color{
+    background-color: #355935;
+    width: 100%;
+    height: 100%;
+    position: absolute
+}
+
+.score-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 60rem;
+}
+
+.game-metadata{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 60rem;
+}
+
+.player-game-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.left-right-players{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 60rem;
+
+}
+
+.played-card{
+    width: 100% !important;
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.server-state-container{
+    display: flex;
+    width: 100%;
+    gap: 0.5rem;
+}

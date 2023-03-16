@@ -1,0 +1,33 @@
+.past-games-container{
+    margin: 4rem 5rem 0rem 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.past-games-container-wrapper{
+    width: 100%;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cancel-btn{
+    background-color: #FF1A2E;
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.join-game-btn{
+    background-color: #74C041;
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}

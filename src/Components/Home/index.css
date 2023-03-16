@@ -1,0 +1,66 @@
+.menu-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 4rem 5rem 0rem 5rem;
+}
+
+.menu-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 60rem;
+}
+
+.menu-logo {
+    margin-bottom: 2rem;
+}
+
+.menu-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 4rem;
+}
+
+.play-game-btn {
+    background-color: #74C041;
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.play-game-btn:hover {
+    background-color: #7FD148 !important
+}
+
+.past-games-btn:hover {
+    background-color: #656668 !important
+}
+
+.about-btn:hover {
+    background-color: #39A0FF !important
+}
+
+.past-games-btn {
+    background-color: #4C4D50;
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+
+.about-btn {
+    background-color: #1890FF;
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
