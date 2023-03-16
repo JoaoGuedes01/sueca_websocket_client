@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sueca_websocket_client/static/css/main.02c43486.css",
+    "main.js": "/sueca_websocket_client/static/js/main.55142f87.js",
+    "index.html": "/sueca_websocket_client/index.html",
+    "main.02c43486.css.map": "/sueca_websocket_client/static/css/main.02c43486.css.map",
+    "main.55142f87.js.map": "/sueca_websocket_client/static/js/main.55142f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c43486.css",
+    "static/js/main.55142f87.js"
+  ]
+}
