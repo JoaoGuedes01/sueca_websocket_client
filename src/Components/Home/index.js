@@ -22,7 +22,7 @@ const Home = () => {
                     <div className='menu-footer'>
                         <div>João Guedes 2023</div>
                         <div style={{ display: 'flex', gap: '1rem' }}>
-                            <a href=''><SVG type='github' /></a>
+                            <a href='https://github.com/JoaoGuedes01/sueca_websocket_server'><SVG type='github' /></a>
                             <a href='https://www.figma.com/file/UV8toO0O0stU5jmJbB8azu/Untitled?node-id=1%3A3&t=PywfrpNVIykawniS-1'><SVG type='figma' /></a>
                         </div>
                     </div>
