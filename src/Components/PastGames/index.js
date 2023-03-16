@@ -21,7 +21,7 @@ const PastGames = () => {
   return (
     <div className='past-games-container'>
       <div className='past-games-container-wrapper'>
-        <Title level={2} style={{ margin: 0 }}>Past Games</Title>
+        <Title level={2} style={{ border: 'solid', padding: '1rem', borderRadius: '6px', margin: 0 }}>Past Games</Title>
 
         <List
           size="large"
