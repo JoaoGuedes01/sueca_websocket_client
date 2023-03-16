@@ -1,5 +1,5 @@
 {
-  "homepage": "https://joaoguedes01.github.io/sueca_websocket_client",
+  "homepage": "https://joaoguedes01.github.io/sueca_websocket_client/",
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
