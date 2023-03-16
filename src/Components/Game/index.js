@@ -35,7 +35,7 @@ function Game() {
 
   useEffect(() => {
     // Create a new WebSocket connection
-    const newWs = new WebSocket('ws://suecawebsocketserver.joaoguedes01.repl.co');
+    const newWs = new WebSocket('wss://suecawebsocketserver.joaoguedes01.repl.co');
 
     newWs.onopen = () => {
       console.log('Websocket connection created')
