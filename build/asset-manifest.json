@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sueca_websocket_client/static/css/main.02c43486.css",
-    "main.js": "/sueca_websocket_client/static/js/main.0a8f6ca4.js",
+    "main.js": "/sueca_websocket_client/static/js/main.c33f08cf.js",
     "index.html": "/sueca_websocket_client/index.html",
     "main.02c43486.css.map": "/sueca_websocket_client/static/css/main.02c43486.css.map",
-    "main.0a8f6ca4.js.map": "/sueca_websocket_client/static/js/main.0a8f6ca4.js.map"
+    "main.c33f08cf.js.map": "/sueca_websocket_client/static/js/main.c33f08cf.js.map"
   },
   "entrypoints": [
     "static/css/main.02c43486.css",
-    "static/js/main.0a8f6ca4.js"
+    "static/js/main.c33f08cf.js"
   ]
 }
